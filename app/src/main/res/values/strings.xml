@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CardViewProject</string>
+    <string name="tv_titulo">IES EL LAGO</string>
+    <!-- Pregunta 1 -->
+    <string name="tv1_pregunta">Información del centro</string>
+    <string name="bt1_carta1">INFORMACIÓN</string>
+    <!-- Pregunta 2 -->
+    <string name="tv2_pregunta">VIDEO</string>
+    <string name="bt1_carta2">VER</string>
+    <!-- Pregunta 3 -->
+    <string name="tv3_pregunta">MÚSICA</string>
+    <string name="bt1_carta3">ACCEDER</string>
+    <!-- Pregunta 4 -->
+    <string name="tv4_pregunta">Ubicación</string>
+    <string name="bt1_carta4">IR</string>
+
+    <!-- Canciones -->
+    <string name="tv_cancion">Michael Jackson - Smooth Criminal</string>
+    <string name="cancion1">HOBA HOBA SPIRIT WALKE CHAREB</string>
+    <string name="cancion2">Led Zeppelin - Whole Lotta Love</string>
+    <string name="cancion3">Michael Jackson - Smooth Criminal</string>
+</resources>
